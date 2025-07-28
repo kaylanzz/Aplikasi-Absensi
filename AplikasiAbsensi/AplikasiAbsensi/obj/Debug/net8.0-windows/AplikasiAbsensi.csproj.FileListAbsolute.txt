@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\bin\Debug\net8.0-windows\AplikasiAbsensi.exe
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\bin\Debug\net8.0-windows\AplikasiAbsensi.deps.json
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\bin\Debug\net8.0-windows\AplikasiAbsensi.runtimeconfig.json
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\bin\Debug\net8.0-windows\AplikasiAbsensi.dll
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\bin\Debug\net8.0-windows\AplikasiAbsensi.pdb
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.Form1.resources
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.AssemblyInfo.cs
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.dll
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\refint\AplikasiAbsensi.dll
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.pdb
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.genruntimeconfig.cache
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\ref\AplikasiAbsensi.dll
+C:\Users\HP\source\repos\AplikasiAbsensi\AplikasiAbsensi\obj\Debug\net8.0-windows\AplikasiAbsensi.Properties.Resources.resources
